@@ -7,3 +7,6 @@
 
 # OS Generated Files
 .DS_Store
+
+# rsconnect directory
+rsconnect/*
